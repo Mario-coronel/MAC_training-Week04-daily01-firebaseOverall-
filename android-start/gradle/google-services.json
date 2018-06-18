@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "943195655417",
+    "firebase_url": "https://friendlychat-volvagiad.firebaseio.com",
+    "project_id": "friendlychat-volvagiad",
+    "storage_bucket": "friendlychat-volvagiad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943195655417:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943195655417-n46l0tgp88qm2ev8jda5vrug67p9e6lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "6e62552677d2c887884a22401ff5b98a91e8137e"
+          }
+        },
+        {
+          "client_id": "943195655417-tu3hsretg8qcp58ca1ct9ekj55phsvha.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "943195655417-tu3hsretg8qcp58ca1ct9ekj55phsvha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5xWVK-6TV8RifOCwekf9uEOJstwjhd0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943195655417-tu3hsretg8qcp58ca1ct9ekj55phsvha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
